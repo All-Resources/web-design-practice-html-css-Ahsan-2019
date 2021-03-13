@@ -8,7 +8,7 @@ This is my Web designing Practice Codes and Here is My HTML,  CSS and Bootstrap 
 
 - :classical_building: 3rd year CS Student, at University Of Okara
 - :heavy_check_mark: Data Scientist |  Machine Learning Engineer 
-- 🔭 I’m currently Learning  Data Science and Machine Learning 
+- 👨🏽‍🌱 I’m currently Exploring Data Science and Machine Learning 
 - 👯 I’m looking to collaborate with other content creators and developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
