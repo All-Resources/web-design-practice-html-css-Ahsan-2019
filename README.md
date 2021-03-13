@@ -22,5 +22,5 @@ This is my Web designing Practice Codes and Here is My HTML,  CSS and Bootstrap 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/ahsanshareef21/)
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/ahsanshareef21/)
 [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=050404&logo=medium&logoColor=ffffff)](https://medium.com/@ahsanshareef21)
-![GitHub followers](https://img.shields.io/github/followers/ahsanshareef21?label=followers&style=social)<p align="center"> <img src="https://komarev.com/ghpvc/?username=ahsanshareef21" alt="Muhammad Ahsan" /> </p>
+![GitHub followers](https://img.shields.io/github/followers/ahsanshareef21?label=followers&style=social)<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsanshareef21" alt="Muhammad Ahsan" /> </p>
  <img align="left" alt="Muhammad Ahsan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ahsanshareef21&show_icons=true&hide_border=true" />
