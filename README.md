@@ -2,14 +2,13 @@
 This is my Web designing Practice Codes and Here is My HTML,  CSS and Bootstrap Codes
 
 
--  ### Hi there, I'm Ahsan👋
--  ### I'm a Creater, Data Scientist and Researcher👋!
+-  ### Hi there, I'm Ahsan👋 Creater, Data Scientist and Researcher👋!
 
 - :classical_building: 3rd year CS Student, at University Of Okara
 - :heavy_check_mark: Data Scientist |  Machine Learning Engineer 
-- *🔭 I’m currently Learning  Data Science and Machine Learning 
-- *👯 I’m looking to collaborate with other content creators and developers
-- *🥅 2021 Goals: Contribute more to Open Source projects
+- 🔭 I’m currently Learning  Data Science and Machine Learning 
+- 👯 I’m looking to collaborate with other content creators and developers
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
