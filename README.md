@@ -3,6 +3,8 @@ This is my Web designing Practice Codes and Here is My HTML,  CSS and Bootstrap 
 
 
 -  ### Hi there, I'm Ahsan👋 Creater, Data Scientist and Researcher👨‍💻!
+-  
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 - :classical_building: 3rd year CS Student, at University Of Okara
 - :heavy_check_mark: Data Scientist |  Machine Learning Engineer 
@@ -10,7 +12,7 @@ This is my Web designing Practice Codes and Here is My HTML,  CSS and Bootstrap 
 - 👯 I’m looking to collaborate with other content creators and developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
   
   
 ### Connect with me:
